@@ -1,0 +1,16 @@
+Credits
+-------------------------
+
+midori-berry:
+  - Concept
+  - Art
+
+dJ Blackbourne:
+  - Music
+  - Sound Effects
+
+CAdventures Entertainment:
+  - Programming
+
+-------------------------
+Global Game Jam 2021
